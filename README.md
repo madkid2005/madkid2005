@@ -1,4 +1,4 @@
-# 👋 سلام! من [اسم تو]
+# 👋 سلام! من مهدی حسینیان 
 
 ### 💻 درباره‌ی من
 - 🔭 الان دارم روی پروژه‌های فرانت‌اند کار می‌کنم  
@@ -24,9 +24,9 @@
 ---
 
 ### 📊 آمار گیت‌هاب من:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=اینجا_یوزرنیمتو_بزن&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madkid2005&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=اینجا_یوزرنیمتو_بزن&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madkid2005&layout=compact&theme=radical)
 
 ---
 
